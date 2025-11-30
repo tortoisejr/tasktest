@@ -1,3 +1,4 @@
 <?php
-echo "helow world";
+$x= $_GET["x"];
+echo $x;
 ?>
